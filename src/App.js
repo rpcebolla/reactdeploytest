@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          ¿Qué te pasa, miarma? ¿Quieres aprender React?
+          Welcome to Codaisseur!
         </a>
       </header>
     </div>
